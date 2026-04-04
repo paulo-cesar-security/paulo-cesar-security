@@ -3,17 +3,21 @@
 Formado em **Segurança da Informação**,
 focado em **Análise Forense Computacional e Investigação Digital**
 
-Sou interessado em análise de evidências digitais, OSINT e investigação de arquivos digitais, buscando identificar manipulações ou alterações em fotos, vídeos e áudios.
+Tenho conhecimento prático em análise de evidências digitais, OSINT e investigação de arquivos digitais, buscando identificar manipulações ou alterações em fotos, vídeos e áudios.
 
 ---
 
-## Áreas de Interesse
+## Projetos em destaque
 
-* Forense Computacional
-* OSINT (Open Source Intelligence)
-* Análise de imagens e vídeos
-* Investigação digital
-* Segurança da Informação
+- OSINT Investigation Case #1 → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/OSINT-analisys
+
+- Image Forensics Analysis → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/image-forensics
+
+- Domain Investigation Report → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/network-analysis
+
+- Fraude Investigation → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/fraude-analisys
+
+- Video Forensics Analysis → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/Video-analysis
 
 ---
 
@@ -24,29 +28,6 @@ Sou interessado em análise de evidências digitais, OSINT e investigação de a
 * ExifTool
 * Wireshark
 * Linux
-
----
-
-## Projetos em destaque
-
-**Análise de Metadados de Imagens**
-Investigação de metadados utilizando ferramentas forenses.
-
-**Investigação OSINT Simulada**
-Coleta e análise de dados públicos disponíveis na internet.
-
-**Análise Forense de Arquivos**
-Verificação de integridade e identificação de possíveis alterações em arquivos digitais.
-
----
-
-## Atualmente estudando
-
-* Investigação digital
-* Técnicas avançadas de OSINT
-* Segurança ofensiva e defensiva
-
----
 
 ## Contato
 
