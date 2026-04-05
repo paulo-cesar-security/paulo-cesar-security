@@ -1,9 +1,4 @@
-# Olá, eu sou Paulo Cesar
-
-Formado em **Segurança da Informação**,
-focado em **Análise Forense Computacional e Investigação Digital**
-
-Tenho conhecimento prático em análise de evidências digitais, OSINT e investigação de arquivos digitais, buscando identificar manipulações ou alterações em fotos, vídeos e áudios.
+Com experiência prática em análise de evidências digitais, OSINT e investigação de arquivos digitais, busco identificar manipulações ou alterações em fotos, vídeos e áudios.
 
 ---
 
