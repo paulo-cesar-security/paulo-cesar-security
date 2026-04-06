@@ -1,7 +1,3 @@
-Com experiência prática em análise de evidências digitais, OSINT e investigação de arquivos digitais, busco identificar manipulações ou alterações em fotos, vídeos e áudios.
-
----
-
 ## Projetos em destaque
 
 - OSINT Investigation Case #1 → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/OSINT-analisys
