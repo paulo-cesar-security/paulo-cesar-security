@@ -1,5 +1,7 @@
 ## Projetos em destaque
 
+- Cybersecurity analyst → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst
+
 - OSINT Investigation Case #1 → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/OSINT-analisys
 
 - Image Forensics Analysis → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/image-forensics
@@ -9,6 +11,8 @@
 - Fraude Investigation → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/fraude-analisys
 
 - Video Forensics Analysis → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/Video-analysis
+
+- Security with Generative AI  → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/security-with-generative-ai
 
 ---
 
