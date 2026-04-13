@@ -18,6 +18,7 @@
 
 ## Ferramentas e Tecnologias
 
+* Microsoft Sentinel
 * Autopsy
 * FTK Imager
 * ExifTool
