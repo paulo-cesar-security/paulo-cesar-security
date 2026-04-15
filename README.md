@@ -1,6 +1,8 @@
 ## Projetos em destaque
 
-- Cybersecurity analyst → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst
+- SOC analisys → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/soc-analisys
+  
+- Cybersecurity analysis → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst
 
 - OSINT Investigation Case #1 → https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/OSINT-analisys
 
