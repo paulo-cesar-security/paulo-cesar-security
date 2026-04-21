@@ -20,6 +20,7 @@
 
 ## Ferramentas e Tecnologias
 
+* CIEM Splunk
 * Microsoft Sentinel
 * Autopsy
 * FTK Imager
