@@ -1,6 +1,6 @@
 ## Cybersecurity Portfolio
 
-🔐 Projetos práticos utilizando o Splunk, Microsoft Sentinel, Microsoft Entra ID, Microsoft 365 e, com foco em detecção de ataques, análise de logs, threat hunting e resposta a incidentes.
+🔐 Projetos práticos utilizando o Splunk, Microsoft Sentinel, Microsoft Entra ID, Microsoft 365, Wireshrak e Nmap, com foco em detecção de ataques, análise de logs, threat hunting e resposta a incidentes.
 Inclui simulações de força bruta, password spraying, ataques à MFA, falhas em políticas de acesso e atividades pós-comprometimento:
 
 🔗 https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst
