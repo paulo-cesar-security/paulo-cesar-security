@@ -21,8 +21,8 @@ Projetos de Investigação Forense Digital com foco em coleta, preservação e a
 
 ## Ferramentas e Tecnologias
 
-* Splunk (CIEM)
-* Microsoft Sentinel (CIEM)
+* Splunk (SIEM)
+* Microsoft Sentinel (SIEM)
 * Autopsy
 * FTK Imager
 * ExifTool
