@@ -29,6 +29,7 @@ Projetos de Investigação Forense Digital com foco em coleta, preservação e a
 * FTK Imager
 * ExifTool
 * Wireshark
+* Nmap
 * Linux
 
 ## Contato
