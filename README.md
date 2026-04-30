@@ -23,6 +23,8 @@ Projetos de Investigação Forense Digital com foco em coleta, preservação e a
 
 * Splunk (SIEM)
 * Microsoft Sentinel (SIEM)
+* Microsoft Entra ID
+* Microsoft Defender
 * Autopsy
 * FTK Imager
 * ExifTool
