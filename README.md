@@ -1,4 +1,4 @@
-<img src="https://github.com/paulo-cesar-security/vulnx-labs/raw/main/images/ezgif.gif">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_eza9Ww2KDR0YsIlU4KvWJSq9bQl1wUvEm2TShliF_rdCFFN1_bsxVloWK8xUsj5JtjeqpiuXkkpknUiHaWm-JXZjVR6QbQIujoIFjyyaL5aMD2K3so08yFrdfZJnbdN_QeGRe92M_Oa4JXNVfbLhn_wcCkF1X4f0ypBssbFD4mujXH3G0XriUtz1z_Em/s798/paulo-cesar-security.gif)">
 
 # Cybersecurity Portfolio
 
