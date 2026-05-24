@@ -1,4 +1,6 @@
-![]("https://github.com/paulo-cesar-security/vulnx-labs/blob/main/images/paulo-cesar-security.gif" width="50%" height="50%")
+<p align="center">
+  <img src="https://github.com/paulo-cesar-security/vulnx-labs/blob/main/images/paulo-cesar-security.gif?raw=true" width="50%">
+</p>
 # Cybersecurity Portfolio
 
 ## 📊🚨 SOC analysis 
