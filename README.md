@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1jVpzFWuCLeUuapucC6tdI3PiqsXpzyHSpgw6-11EANxkyGHazBOOqn3fq-mk6mahWgz5AqssSmgA1nc2UGyi_Au1jctZQeD-Kdr9gVLl9Z-72HSYsnOysUvGOsGWWbCEB3-maNsnixYt52j5DqPmLX6fN-TbjGO40oVmK402QCe6iCeTcIyMPVItuLx/s1600/paulo-cesar-security.gif">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1jVpzFWuCLeUuapucC6tdI3PiqsXpzyHSpgw6-11EANxkyGHazBOOqn3fq-mk6mahWgz5AqssSmgA1nc2UGyi_Au1jctZQeD-Kdr9gVLl9Z-72HSYsnOysUvGOsGWWbCEB3-maNsnixYt52j5DqPmLX6fN-TbjGO40oVmK402QCe6iCeTcIyMPVItuLx/s320/paulo-cesar-security.gif">
 
 # Cybersecurity Portfolio
 
