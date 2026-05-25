@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1jVpzFWuCLeUuapucC6tdI3PiqsXpzyHSpgw6-11EANxkyGHazBOOqn3fq-mk6mahWgz5AqssSmgA1nc2UGyi_Au1jctZQeD-Kdr9gVLl9Z-72HSYsnOysUvGOsGWWbCEB3-maNsnixYt52j5DqPmLX6fN-TbjGO40oVmK402QCe6iCeTcIyMPVItuLx/s320/paulo-cesar-security.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=00FF66&background=050505&width=435&lines=%3E+Hi!+I'm+Paulo+Cesar+%F0%9F%91%BE;%3E+Cybersecurity;%3E+SOC%2C+Pentest%2C+Forense%2C+OSINT)](https://git.io/typing-svg)
 
 # Cybersecurity Portfolio
 
