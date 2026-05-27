@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=00FF66&background=050505&width=435&lines=%3E+Hi!+I'm+Paulo+Cesar+%F0%9F%91%BE;%3E+Cybersecurity;%3E+SOC%2C+Pentest%2C+Forense%2C+OSINT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=00FF66&background=050505&width=435&lines=%3E+Hi!+I'm+Paulo+Cesar+%F0%9F%91%BE;%3E+Bem vindo(a) ao meu Portfolio!;%3E+SOC%2C+Pentest%2C+Forense%2C+OSINT)](https://git.io/typing-svg)
 
 # Cybersecurity Portfolio
 
