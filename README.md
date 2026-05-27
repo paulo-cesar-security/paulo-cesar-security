@@ -56,6 +56,8 @@ Projetos de Open Source Intelligence (OSINT) voltados à coleta e análise de in
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/paulo-cesar-security)
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/paulo-cesar-security)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paulo-cesar-security)
 
 ---
