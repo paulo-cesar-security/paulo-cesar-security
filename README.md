@@ -14,7 +14,7 @@ Inclui simulações de força bruta, password spraying, ataques à MFA, falhas e
 ## 🔓🐞 Pentest 
 Projetos de Pentest focados na identificação de vulnerabilidades, análise de segurança e simulação de ataques controlados para fortalecer a proteção de sistemas e aplicações.
 
-[Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst/pentest)
+[Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/pentest)
 
 ---
 
