@@ -4,7 +4,7 @@
 
 ## 📊🚨 SOC analysis 
 
-Projetos práticos utilizando SIEM Microsoft Sentinel e Splunk, Microsoft Entra ID, Microsoft Defender, Wireshark, Nmap e várias outras ferramentas, com foco em detecção de ataques, análise de logs, threat hunting e resposta a incidentes.
+Projetos práticos utilizando SIEM Microsoft Sentinel, Splunk e Elastic, Microsoft Entra ID, Microsoft Defender, Wireshark, Nmap e várias outras ferramentas, com foco em detecção de ataques, análise de logs, threat hunting e resposta a incidentes.
 Inclui simulações de força bruta, password spraying, ataques à MFA, falhas em políticas de acesso e atividades pós-comprometimento:
 
 [Acessar](https://github.com/paulo-cesar-security/cybersecurity-portfolio/tree/main/cybersecurity-analyst)
