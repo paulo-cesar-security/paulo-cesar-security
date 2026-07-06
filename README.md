@@ -36,7 +36,7 @@ Projetos de Open Source Intelligence (OSINT) voltados à coleta e análise de in
 
 ## 🛠️ Ferramentas e Tecnologias
 
-* SIEM Microsoft Sentinel e Splunk
+* SIEM Microsoft Sentinel, Splunk e Elastic
 * Microsoft Entra ID
 * Microsoft Defender
 * Autopsy
